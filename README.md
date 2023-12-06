@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ruth</h1>
 <h3 align="center">An Enthusiastic programmer from Ethiopia</h3>
 
-🌱 I’m currently learning Flutter<br><br>👯 I’m looking to collaborate on Fullstack Apps<br><br>👨‍💻 All of my projects are available at https://portfolio-liart-psi-37.vercel.app/<br><br>💬 Ask me about Javascript,react,angular,php<br><br>📫 How to reach me ruthgetaneh5@gmail.com
+🌱 I’m currently learning Flutter<br>
+<br>👯 I’m looking to collaborate on Fullstack Apps<br>
+<br>👨‍💻 My Portfolio https://ruthportfolio.vercel.app/<br>
+<br>💬 Ask me about Javascript,react,angular,php<br><br>
+📫 How to reach me ruthgetaneh5@gmail.com
 
 
 
