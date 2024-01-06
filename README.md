@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruth</h1>
-<h3 align="center">An Enthusiastic programmer from Ethiopia</h3>
+<h3 align="center">An Enthusiastic Full-Stack Developer</h3>
 
-🌱 I’m currently learning Flutter<br>
+🌱 I write my career Journy on my Blog, https://dotsblog.netlify.app/<br>
 <br>👯 I’m looking to collaborate on Fullstack Apps<br>
 <br>👨‍💻 My Portfolio https://ruthportfolio.vercel.app/<br>
 <br>💬 Ask me about Javascript,react,angular,php<br><br>
