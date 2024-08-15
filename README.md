@@ -3,7 +3,7 @@
 
 🌱 Check out my blog, https://dotsblog.netlify.app/<br>
 <br>👯 I’m looking to collaborate on Fullstack Apps<br>
-<br>👨‍💻 My Portfolio https://ruthportfolio.vercel.app/<br>
+<br>👨‍💻 My Portfolio https://ruth-personal-portfolio.vercel.app//<br>
 <br>💬 Ask me about Javascript,react,angular,php<br><br>
 📫 How to reach me ruthgetaneh5@gmail.com
 
