@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruth</h1>
-<h3 align="center">An Enthusiastic Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
-🌱 Check out my blog, https://dotsblog.netlify.app/<br>
-<br>👯 I’m looking to collaborate on Fullstack Apps<br>
 <br>👨‍💻 My Portfolio https://ruth-personal-portfolio.vercel.app//<br>
-<br>💬 Ask me about Javascript,react,angular,php<br><br>
 📫 How to reach me ruthgetaneh5@gmail.com
 
 
